@@ -4,8 +4,8 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
 -- Export de la structure de la base pour chat
-CREATE DATABASE IF NOT EXISTS `chat` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `chat`;
+CREATE DATABASE IF NOT EXISTS `id2755047_chat` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `id2755047_chat`;
 
 
 -- Export de la structure de table chat. messages
